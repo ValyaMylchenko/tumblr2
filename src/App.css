@@ -1,0 +1,19 @@
+.app {
+  display: grid;
+  grid-template-rows: 2fr 1fr 20fr 20fr;
+  height: 570px;
+}
+
+
+
+
+
+.hrr {
+  
+  
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    border-color: rgba(173, 173, 182, 0.507);
+    border-width: 1px;
+    
+} 
