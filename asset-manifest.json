@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tumblr2/static/css/main.4d5592f3.chunk.css",
+    "main.js": "/tumblr2/static/js/main.16e8b165.chunk.js",
+    "main.js.map": "/tumblr2/static/js/main.16e8b165.chunk.js.map",
+    "runtime-main.js": "/tumblr2/static/js/runtime-main.a405c46d.js",
+    "runtime-main.js.map": "/tumblr2/static/js/runtime-main.a405c46d.js.map",
+    "static/js/2.4055d140.chunk.js": "/tumblr2/static/js/2.4055d140.chunk.js",
+    "static/js/2.4055d140.chunk.js.map": "/tumblr2/static/js/2.4055d140.chunk.js.map",
+    "static/js/3.49848dcc.chunk.js": "/tumblr2/static/js/3.49848dcc.chunk.js",
+    "static/js/3.49848dcc.chunk.js.map": "/tumblr2/static/js/3.49848dcc.chunk.js.map",
+    "index.html": "/tumblr2/index.html",
+    "static/css/main.4d5592f3.chunk.css.map": "/tumblr2/static/css/main.4d5592f3.chunk.css.map",
+    "static/js/2.4055d140.chunk.js.LICENSE.txt": "/tumblr2/static/js/2.4055d140.chunk.js.LICENSE.txt",
+    "static/media/avatar.29b12b6a.jpg": "/tumblr2/static/media/avatar.29b12b6a.jpg",
+    "static/media/covered.6f221e38.PNG": "/tumblr2/static/media/covered.6f221e38.PNG",
+    "static/media/preloader.b78c4790.gif": "/tumblr2/static/media/preloader.b78c4790.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a405c46d.js",
+    "static/js/2.4055d140.chunk.js",
+    "static/css/main.4d5592f3.chunk.css",
+    "static/js/main.16e8b165.chunk.js"
+  ]
+}
