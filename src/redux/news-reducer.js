@@ -38,23 +38,13 @@ let initialState = {
 export const newsReducer = (state = initialState, action) => {
     switch(action.type){
       
-        case "ADD-POST": {
-        let newPost = {
-            id: 7,
-            text: action.text,
-            likescount: 0
-          }
-          let stateCopy = {...state};
-          stateCopy.posts = [...state.posts];
-          stateCopy.posts.push(newPost);
-          return stateCopy;
-        }
+     
         default: 
         return state;
     }
     
 }
 
-export const addPostActionCreator = (post) => ({ type: ADD_POST, text: post.post })
+
 
 
