@@ -1,0 +1,9 @@
+.mess {
+    display: inherit;
+    justify-content: flex-start;
+    background-color: rgba(45, 50, 110, 0.459);
+    padding: 10px 10px 10px 10px;
+    margin: 10px 80% 10px 10px;
+    color: whitesmoke;
+    border-radius: 3px;
+}
